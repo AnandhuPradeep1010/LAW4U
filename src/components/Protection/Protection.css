@@ -1,0 +1,82 @@
+/* General Container Styling */
+.education-container {
+    background: linear-gradient(to bottom, #f9d401, transparent 100%), linear-gradient(to top, #00bbf0 50%, transparent 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+}
+
+/* Education Section Styling */
+.education-section {
+    background: linear-gradient(to bottom, #f9d401, transparent 100%);
+    width: 80%;
+    max-width: 800px;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 15px rgba(249, 248, 248, 0.2);
+    min-height: 500px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.education-section:hover {
+    transform: scale(1.02);
+}
+
+/* Video Section Styling */
+.video-section {
+    background: linear-gradient(to top, #00bbf0 50%, transparent 100%), linear-gradient(to bottom, #f9d401, transparent 100%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    max-width: 800px;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);
+    min-height: 500px;
+    transition: transform 0.3s ease-in-out;
+    color: rgb(167, 9, 9);
+}
+
+.video-section:hover {
+    transform: scale(1.02);
+}
+
+/* Video Container Styling */
+.video-container {
+    background: linear-gradient(to top, #00bbf0 50%, transparent 100%);
+    width: 50%;
+    height: 100%;
+    color: aliceblue;
+}
+
+/* Video Text Styling */
+.video-text {
+    width: 45%;
+    text-align: left;
+    font-size: 1.1em;
+    color: #333;
+}
+
+/* YouTube Button Styling */
+.youtube-button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 12px 20px;
+    background: #ff0000;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.3s, transform 0.2s;
+}
+
+.youtube-button:hover {
+    background: #cc0000;
+    transform: scale(1.05);
+}

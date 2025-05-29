@@ -1,0 +1,44 @@
+.footer {
+  background-image: url(../../assets/bgFooter.jpeg);
+    opacity: linear-gradient(to top, #020709 0%, transparent 100%);
+    background-size: 100% 300px;
+    background-position: 0% 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: auto;
+    color: rgb(248, 14, 147);
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: auto;
+}
+
+.footer-section {
+  flex: 1;
+  min-width: 200px;
+  margin: 10px;
+}
+
+.footer h3 {
+  font-size: 18px;
+  border-bottom: 2px solid #ffcc00;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.footer p {
+  margin: 5px 0;
+  font-size: 14px;
+}
+
+.footer a {
+  color: #ffcc00;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}

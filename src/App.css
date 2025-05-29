@@ -1,0 +1,31 @@
+/* App.css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #f4f4f4;
+}
+
+.App > * {
+  padding: 10px;
+}
+
+main {
+  flex-grow: 1;
+}
+
+.footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: auto;
+}
