@@ -1,12 +1,21 @@
-Match the Right! is a simple and interactive card-matching game developed using React.js. The game is designed to educate children about their rights in a fun and engaging way. Players match pairs of cards, each representing a specific right, to complete the game.
+🎮 Children’s Rights Gamified Platform 👶📚
+An interactive React.js web platform designed to spread awareness about children's rights through fun, educational mini-games and helpful resources. This platform combines learning, play, and support tools to educate kids about their rights in an engaging, accessible way.
 
-✨ Features:
-Clean and responsive UI
+Key Highlights:
 
-Card flip animations and hover effects
+📖 Match the Right! — A card-matching memory game introducing children to various rights concepts
 
-Win message popup on game completion
+❓ Quiz Quest — A multiple-choice quiz to test and reinforce awareness
 
-Educative and beginner-friendly code structure
+🖼️ Rights Explorer — A visual interaction game where children make choices in simple scenarios and learn about their rights
 
-Part of my ongoing mission to combine technology with social impact.
+📞 Helpline Section — Quick access to verified child safety and support helpline numbers
+
+🎥 Learn with Videos — A curated collection of child-friendly awareness videos explaining rights, safety tips, and empowerment lessons
+
+Clean, responsive UI with simple animations, hover effects, and positive reinforcement messages
+
+Developed using React.js with a focus on accessibility and ease of use for young users
+
+Vision:
+To create a safe, engaging, and informative digital space where children can learn about their rights, access help if needed, and enjoy interactive games that educate while they play.
